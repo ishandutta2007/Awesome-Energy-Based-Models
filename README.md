@@ -9,7 +9,7 @@
 
 **A curated list of awesome Energy-Based Models, research papers, and resources.**
 
-![EBM Banner](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Energy-Based%20Models&fontSize=70)
+![EBM Banner](./assets/banner.svg)
 
 ---
 
