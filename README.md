@@ -47,3 +47,15 @@ Energy-Based Models (EBMs) assign low energy to valid or likely data points and 
 | **Equilibrium Matching (EqM)** | A generative framework that learns the equilibrium gradient of an implicit energy landscape. | 2025 | [Paper](https://arxiv.org/abs/2510.00752) | [Detail Page](./details/eqm.md) |
 | **Energy-Based World Models (EBWMs)** | Shape energy landscapes to anticipate environment reactions in RL and robotics. | 2019 | [Paper](https://arxiv.org/abs/1909.06878) | [Detail Page](./details/ebwms.md) |
 
+## 📈 Star History
+<div align="center">
+   <a href="https://www.star-history.com/#ishandutta2007/Awesome-Energy-Based-Models&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Energy-Based-Models&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Energy-Based-Models&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Energy-Based-Models&type=Date" />
+    </picture>
+   </a>
+</div>
+
+
